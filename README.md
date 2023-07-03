@@ -12,6 +12,9 @@ This project contains a file `bikeshare.py` which does analysis based on files:
 -`new_york_city.csv`
 -`washington.csv`
 
+### Software
+To run the `bikeshare.py` file you should have *python* environment installed
+
 ### Files used
 -`chicago.csv`
 -`new_york_city.csv`

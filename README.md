@@ -20,3 +20,6 @@ This project contains a file `bikeshare.py` which does analysis based on files:
 ### Credits
 Project based on `https://github.com/udacity/pdsnd_github`
 
+### Thanks
+Special thanks to the *Udacity team*, thanks to which I can realize this project.
+

@@ -189,7 +189,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-
+"""Display 5 rows of source data."""
         i = 0
         while True:
             raw_data = input('do you want to see 5 raw data rows? yes or no.')
